@@ -2,8 +2,11 @@
 html, body{
 	width:1920px;
 }
-header{
+header, footer{
 	background-color: #FCFCFC;
+	height:100%;
+	width:1920px;
+	width:100%;
 }
 header div, nav, nav li {
 	display:inline-block;
