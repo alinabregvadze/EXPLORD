@@ -1,3 +1,4 @@
+/*first section*/
 body{
 	background-color:#FAFAFA;
 }
@@ -82,4 +83,91 @@ body{
 	background-color: #6294A2;
 	border-radius: 22px;
 	padding:15px 34px;
+}
+/*end of first setction*/
+.publications, aside{
+	display: inline-block;
+	vertical-align: top;
+}
+.publications{
+	background-color: #FCFCFC;
+	margin:59.1px 50px 54px 301px;
+	border-radius: 7px;
+	width:862px;
+	height: 585px;
+}
+.title{
+	margin:45px 56.5px 44px 43.2px;
+}
+.title h3{
+	color:#404040;
+	font-size:25px;
+	font-family: Acumin Pro;
+	font-weight: 400;
+	line-height: 35px;
+	display: inline-block;
+}
+.title h3::before{
+	content: url(../img/Ellipse1.svg);
+	display: inline-block;
+	width:10px;
+	height:10px;
+	margin-right:14.8px;
+}
+.title a{
+	margin-left:364.1px;
+	color:#404040;
+	opacity: 32%;
+	font-size:12px;
+	font-family: Acumin Pro;
+	font-weight: 500;
+	line-height: 16px;
+	text-transform: uppercase;
+}
+.title a::after{
+	content: url(../img/drop.svg);
+	display: inline-block;
+	margin-left:10.5px;
+}
+.articles{
+	margin:44px 75.7px 28px 30px;
+}
+.articles img{
+	width:180px;
+	margin-right:10px;
+	display: inline-block;
+	vertical-align: top;
+}
+.d-block{
+	display: inline-block;
+	width:550px;
+	vertical-align: top;
+}
+.d-block span{
+	color:#404040;
+	opacity: 24%;
+	font-size:13px;
+	font-family: Acumin Pro;
+	font-weight: 500;
+	line-height: 19px;
+	text-transform: uppercase;
+}
+.d-block h4{
+	margin-top:9px;
+	margin-bottom:17px;
+	color:#404040;
+	font-size:20px;
+	font-family: Acumin Pro;
+	font-weight: 500;
+	line-height: 28px;
+}
+.d-block p{
+	color:#404040;
+	font-size:15px;
+	font-family: Acumin Pro;
+	font-weight: 300;
+	line-height: 21px;
+}
+.img-box{
+	margin-bottom:30px;
 }
