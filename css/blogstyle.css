@@ -53,6 +53,7 @@ header div, nav, nav li {
 	margin-right:56px;
 }
 /* header ends*/
+
 .main-box {
 	width: 1312.21px;
     height: 1134.17px;
@@ -131,4 +132,224 @@ section h1 {
 	margin-top: 619.6px;
 	margin-left: 100px;
 	position: absolute;
+}
+h2 {
+	font-family: 'Acumin Pro';
+    font-size: 32px;
+    position: absolute;
+    margin-top: 879.1px;
+    margin-left: 112.7px;
+    color: #404040;
+}
+.text-4 p {
+	margin-left: 112.6px;
+	margin-top: 925px;
+	color: #404040;
+	font-size: 16px;
+	font-family: 'Acumin Pro';
+	position: absolute;
+	width: 1089.81px;
+}
+.icon img {
+	margin-left: 112.7px;
+	margin-top: 1017px;
+	position: absolute;
+	width: 114px;
+	height: 114px;
+}
+.name {
+	display: inline-block;	
+}
+.name h6 {
+	color: #404040;
+	margin-top: 1014px;
+	margin-left: 269.2px;
+	font-size: 15px;
+	font-family: 'Acumin Pro';
+	position: absolute;
+	opacity: 35%;
+}
+.name h5 {
+    color: #404040;
+    margin-top: 1033.1px;
+    margin-left: 267.6px;
+    font-family: 'Acumin Pro';
+    font-size: 20px;
+    position: absolute;
+}
+.name p {
+	margin-left: 269.7px;
+	margin-top: 1073px;
+	color: #404040;
+	font-size: 14px;
+	font-family: 'Acumin Pro';
+	position: absolute;
+	width: 697px;
+	height: 70px;
+}
+.link {
+	width: 151.91px;
+	height: 119.84px;
+	margin-left: 1042.8px;
+	margin-top: 1014.1px;
+	position: absolute;
+	display: inline-block;
+}
+.link p {
+	font-size: 16px;
+	font-family: 'Acumin Pro';
+	margin-top: 0;
+	margin-left: 0;
+	position: absolute;
+	color: #404040;
+}
+.facebook, .twitter, .instagram {
+	width: 25.61px;
+	height: 25.61px;
+	margin-top: 23.6px;
+	opacity: 8%;
+}
+.facebook {
+	margin-left: 1.2px;
+}
+
+.twitter, .instagram {
+	margin-left: 7.4px;
+}
+#web {
+	width: 120.91px;
+	height: 19.84px;
+	margin-left: 0;
+	margin-top: 26.8px;
+}
+#web-2 {
+	width: 151.91px;
+	height: 19.84px;
+	margin-top: 50.8px;
+	margin-left: 0;
+}
+
+/*footer started*/
+footer {
+	margin-left: 0;
+	margin-top: 54px;
+	max-width: 1920px;
+	height: 234px; 
+	width: 100%;
+	position: relative;
+    
+}
+.box {
+	width: 1285px;
+	height: 159px;
+	margin-top: 47px;
+	margin-left: 301px;
+	position: absolute;
+	display: inline-block;
+}
+.footer-box-1>a::before{
+	content:url(../img/Ellipse1.svg);
+	width:10px;
+	height: 10px;
+	margin-right:11px; 
+}
+.footer-box-1>a{
+	color:#404040;
+	font-size: 22px;
+	font-family: Acumin Pro;
+	text-transform: uppercase;
+	font-weight: 800;
+}
+.footer-box-1>span{
+	color:#404040;
+	font-size: 18px;
+	opacity: 27%;
+	font-weight:200;
+	font-family: Acumin Pro;
+	margin-left:26px;
+	text-transform: uppercase;
+}
+.footer-box-1>h6{
+	color:#404040;
+	font-size: 16px;
+	font-family: Acumin Pro;
+	font-weight: 500px;
+	text-transform: capitalize;
+	margin-top:40px;
+}
+.footer-box-1>p {
+	width:376px;
+	color:#404040;
+	opacity: 58%;
+	font-size:15px;
+	font-family: Acumin Pro;
+	font-weight: 200px;
+	margin-top:10px;
+	line-height: 22px;
+}
+.footer-box-1{
+	margin-right:343px;
+	display: inline-block;
+}
+.footer-box-2 {
+	width: 82px;
+	height: 155px;
+	margin-left: 0;
+	margin-top: 0;
+	position: absolute;
+	display: inline-block;
+}
+.footer-box-2 p{
+	color:#404040;
+	font-size:15px;
+	font-family: Acumin Pro;
+	font-weight: 400px;
+	line-height: 28px;
+	margin: 0;
+}
+.footer-box-2 a{
+	color:#404040;
+	font-size:15px;
+	font-family: Acumin Pro;
+	font-weight: 200px;
+	margin-top:10px;
+	line-height: 28px;
+}
+.footer-box-2+img{
+	margin-left: 100px;
+	margin-right: 0;
+	width:1px;
+	height:131px;
+}
+.foot {
+	margin-left: 52px;
+}
+.footer-box-3 {
+	position: absolute;
+	display: inline-block;
+    padding-right: 0;
+}
+.footer-box-3 p{
+	color:#404040;
+	font-size:15px;
+	font-family: Acumin Pro;
+	font-weight: 500px;
+	margin-bottom:10px;
+	line-height: 28px;
+	margin-left: 237px;
+}
+.footer-box-3 span{
+	color:#404040;
+	font-size:15px;
+	font-family: Acumin Pro;
+	font-weight: 200px;
+	line-height: 28px;
+	width:136px;
+	margin-left: 237px;
+}
+.footer-box-3 img{
+	opacity: 8%;
+}
+.fb {
+	margin-left: 237px;
 }
