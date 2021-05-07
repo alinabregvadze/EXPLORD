@@ -1,0 +1,105 @@
+html, body{
+	width:1920px;
+}
+header, footer{
+	background-color: #FCFCFC;
+	height:100%;
+	width:1920px;
+	width:100%;
+}
+header div, nav, nav li {
+	display:inline-block;
+}
+.header{
+	margin:38px 301px;
+}
+.navbar:first-child::before{
+	content:url(../img/Ellipse1.svg);
+	width:10px;
+	height: 10px;
+	margin-right:11px; 
+}
+.navbar:first-child{
+	color:#404040;
+	font-size: 22px;
+	font-family: Acumin Pro;
+	text-transform: uppercase;
+	font-weight: 800;
+}
+.navbar:nth-child(2){
+	color:#404040;
+	font-size: 16px;
+	font-family: Acumin Pro;
+	font-weight: 500px;
+	text-transform: capitalize;
+}
+.navbar:nth-child(2)::before{
+	content:url(../img/Rectangle7.svg); ;
+	width:1px;
+	height:25px;
+	margin-left:37px;
+	margin-right:41px;
+	background-color: #F0F0F0;
+}
+.navbar-li a{
+	color:#404040;
+	font-size: 16px;
+	font-family: Acumin Pro;
+	font-weight: 600px;
+	text-transform: uppercase;
+}
+.navbar-li:first-child a{
+	margin-left:792px;
+	margin-right:56px;
+}
+.img{
+	width: 860.63px;
+	height: 477.61px;
+}
+h4{
+	color: grey;
+	size: 30px;
+}
+.First{
+	display: flex;
+	align-items: center;
+}
+.photo{
+	display: flex;
+}
+p{
+	width: 400px;
+	margin: 20px;
+}
+.text{
+	display: flex;
+	align-items: center;
+	size: 50px;
+}
+.clock{
+	display: flex;
+	align-items: center;
+	color: grey;
+}
+
+footer{
+	background-color: #FCFCFC;
+	margin-bottom: 16px;
+	margin: 0px
+	font-size: 5px;
+	size: 20px;
+}
+.and{
+	display: flex;
+	align-items: center;
+	margin: 0px;
+	margin-left: 0px;
+	margin-bottom: 20px;
+	size: 50px;
+}
+.footer-box1{
+	color: black;
+}
+.footer-box2{
+	color: black;
+}
